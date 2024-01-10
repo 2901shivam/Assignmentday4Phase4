@@ -11,6 +11,7 @@ List<Product> product = new List<Product>()
     new Product(){Id=3,PName="Glucose Biscut",Price=10,PBrand="Parle G",ManufactureDate=new DateTime(day:12,month:11,year:2022),ExpDate=new DateTime(day:10,month:02,year:2024)},
     new Product(){Id=4,PName="Kit kat",Price=100,PBrand="Cadburry",ManufactureDate=new DateTime(day:12,month:11,year:2022),ExpDate=new DateTime(day:10,month:02,year:2024)},
     new Product(){Id=5,PName="FiveStar",Price=50,PBrand="Cadburry",ManufactureDate=new DateTime(day:12,month:11,year:2022),ExpDate=new DateTime(day:10,month:02,year:2024)},
+    new Product(){Id=6,PName="DreamLite",Price=50,PBrand="Anmol",ManufactureDate=new DateTime(day:12,month:11,year:2022),ExpDate=new DateTime(day:10,month:02,year:2024)},
 
 
 };
